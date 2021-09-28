@@ -1,0 +1,10 @@
+D:\VB\Çevre ve Alan  Hesaplama\bin\Debug\Çevre ve Alan  Hesaplama.exe.config
+D:\VB\Çevre ve Alan  Hesaplama\bin\Debug\Çevre ve Alan  Hesaplama.exe
+D:\VB\Çevre ve Alan  Hesaplama\bin\Debug\Çevre ve Alan  Hesaplama.pdb
+D:\VB\Çevre ve Alan  Hesaplama\obj\Debug\Çevre ve Alan  Hesaplama.csprojAssemblyReference.cache
+D:\VB\Çevre ve Alan  Hesaplama\obj\Debug\Çevre_ve_Alan__Hesaplama.Form1.resources
+D:\VB\Çevre ve Alan  Hesaplama\obj\Debug\Çevre_ve_Alan__Hesaplama.Properties.Resources.resources
+D:\VB\Çevre ve Alan  Hesaplama\obj\Debug\Çevre ve Alan  Hesaplama.csproj.GenerateResource.cache
+D:\VB\Çevre ve Alan  Hesaplama\obj\Debug\Çevre ve Alan  Hesaplama.csproj.CoreCompileInputs.cache
+D:\VB\Çevre ve Alan  Hesaplama\obj\Debug\Çevre ve Alan  Hesaplama.exe
+D:\VB\Çevre ve Alan  Hesaplama\obj\Debug\Çevre ve Alan  Hesaplama.pdb
